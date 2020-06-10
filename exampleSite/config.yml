@@ -78,7 +78,7 @@ languageCode: en
 # than English! When tested with Lithuanian,
 # it would add unnecesary placeholders to
 # values that were intentionally empty.
-defaultContentLanguage: en
+defaultContentLanguage: nl
 
 # What is the hostname or path to the root?
 # Where is the site hosted?
@@ -90,7 +90,7 @@ defaultContentLanguage: en
 # localhost should automatically work.
 #
 # Example: https://status.example.com/
-baseURL: https://sad-haibt-41fdca.netlify.app/
+baseURL: https://toolit-status.netlify.app
 
 ############################################################
 # +------------------------------------------------------+ #
