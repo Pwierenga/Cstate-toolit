@@ -1,0 +1,149 @@
+# English language file for cState
+# Official
+# Version 4.1
+
+- id: languageCode
+  translation: NL
+- id: languageName
+  translation: Dutch
+- id: languageNameShort
+  translation: NL
+
+##
+## INDEX.HTML
+##
+
+# Summary status message
+- id: isDown
+  translation: Servers offline
+- id: isDisrupted
+  translation: Onderbrekingen gaande
+- id: isNotice
+  translation: Zie notificatie
+- id: isOk
+  translation: Alle systemen online
+
+# No JS warning
+- id: noScriptingIntro
+  translation: JavaScript staat uit
+- id: noScriptingLink
+  translation: enable scripting
+- id: noScriptingOutro
+  translation: to enhance your experience on this website.
+
+- id: thisIsDown
+  translation: Offline
+- id: thisIsDisrupted
+  translation: Onderbroken
+- id: thisIsNotice
+  translation: Werkzaamheden
+- id: thisIsOk
+  translation: Online
+
+# "Last checked" + "just now"
+- id: lastChecked
+  translation: Laatste check 
+- id: justNow
+  translation: enkele seconden geleden
+- id: someTimeAgo
+  translation: geleden
+
+# Example usage: `5` + `years`
+# Final result: 'Last checked 5 years ago'
+# Number goes before string
+# Use short variants until months
+- id: yearsAgo
+  translation: jaar
+- id: monthsAgo
+  translation: maanden
+- id: daysAgo
+  translation: d
+- id: hoursAgo
+  translation: u
+- id: minsAgo
+  translation: min
+- id: secondsAgo
+  translation: s
+
+- id: autoRefreshNotice
+  translation: Refresh elke 5 minuten
+
+# Incidents
+- id: incidents
+  translation: Incidenten
+- id: incidentHistory
+  translation: Incidenten geschiedenis
+
+- id: resolved
+  translation: Opgelost # if it's less than a min
+- id: inUnderAMinute
+  translation: binnen een minuut# continuing the last string
+- id: resolvedAfter
+  translation: Opgelost in # + 19 min
+- id: ofDowntime
+  translation: offline
+
+- id: downtimeOngoing
+  translation: Incident wordt aan gewerkt
+
+
+- id: calmBeforeTheStorm
+  translation: Is dit de stilte voor de storm?
+- id: noIncidentsDesc
+  translation: Geen incidenten in de geschiedenis.
+
+
+- id: continueReading
+  translation: Lees verder
+- id: prev
+  translation: Vorige
+- id: next
+  translation: Volgende
+
+##
+## OTHER
+##
+
+- id: goBack
+  translation: Terug naar
+- id: backToTop
+  translation: Terug naar begin
+- id: poweredBy
+  translation: Powered by
+
+- id: notFound
+  translation: Er is hier niks.
+- id: notFoundText
+  translation: 
+
+- id: rss
+  translation: Subscribe via RSS
+- id: toAllUpdates
+  translation: naar alle updates
+- id: or
+  translation: or
+- id: onlyThisFeed
+  translation: alleen deze feed
+
+##
+## v3
+##
+- id: entries
+  translation: toevoegingen
+- id: newestToOldest
+  translation: nieuw naar oud
+
+##
+## v4
+##
+- id: notFoundAffected
+  translation: Geen downtime
+
+##
+## v4.1
+## 
+
+- id: averageSystemsDowntime
+  translation: Onlangs is deze server gemiddeld offline geweest voor 
+- id: averageSystemsDowntimeSecondPart
+  translation: minuten per keer.
