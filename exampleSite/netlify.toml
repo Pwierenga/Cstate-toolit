@@ -1,6 +1,7 @@
 [build]
+    base = "exampleSite"
     command = "hugo"
-    publish = "public"
+    publish = "exampleSite"
     functions = "functions"
 
 [build.environment]
